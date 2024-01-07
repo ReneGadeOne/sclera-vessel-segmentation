@@ -1,2 +1,0 @@
-# sclera-vessel-segmentation
- 
